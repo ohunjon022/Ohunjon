@@ -1,0 +1,216 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.asos{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.ong{
+    font-family: 'Playfair Display', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 32px;
+    color: #10375C;
+}
+.orta{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.orta p{
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 28px;
+    color: #222831;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0 40px;
+}
+.log{
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FF5722;
+    margin: 0px 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 12px 24px;
+}
+.sign{
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFFFF;
+    margin: 0px 10px;
+    background: #FF5722;
+    box-shadow: 0px 4px 16px rgba(255, 87, 34, 0.32);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 12px 24px;
+}
+.int{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.int h2{
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    color: #222831;
+}
+.sariq{
+    font-family: 'Lora',serif;
+font-style: normal;
+font-weight: bold;
+font-size: 52px;
+line-height: 67px;
+color: #DD2C00;
+}
+.rev_chap h1{
+    font-family:'Lora', serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 52px;
+    line-height: 67px;
+    color: #10375C;
+}
+.rev_ong  p{
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    color: #6A6A6A;
+}
+.revo{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.find{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.find_chap{
+    position: absolute;
+}
+.our{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 115px;
+}
+.our_chap{
+    font-family: 'Lora', serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 51px;
+    color: #10375C;
+}
+.our_orta{
+    font-family: 'Lato', serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+    color: #9A9A9A;
+}
+.work{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    align-items: center;
+    margin-top: 50px;
+    margin: 0 30px;
+}
+.strelka{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 45px;
+}
+.kok{
+    background: #10375C;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 80%;
+}
+.chek{
+    color: #FFFFFF;
+    background: #FF5722;
+    font-family: 'Lato', serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    padding: 25px 70px;
+    outline: none;
+    border: none;
+    align-self: start;
+    justify-self: flex-end;
+    margin-top: 25%;
+}
+.rasmlar h2{
+    font-family: 'Lato', serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+    color: #222831;
+}
+.kok p{
+    font-family: 'Lato', serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.kok h2{
+    font-family: 'Lora', serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 41px;
+    color: #FFFFFF;
+}
+.ikon h2{
+    font-family: 'Lora', serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 41px;
+    color: #10375C;
+}
+.ikon p{
+    font-family:' Lato', serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+    color: #9A9A9A;
+}
+.meet{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+}
